@@ -3714,7 +3714,7 @@ input, select, textarea {
 					}
 
 					#wrapper > section.intro > header {
-						padding: 8rem 4rem 5rem 4rem;
+						padding: 1rem 4rem 0rem 4rem;
 					}
 
 				#wrapper .copyright {
@@ -3820,7 +3820,7 @@ input, select, textarea {
 		}
 
 	#wrapper > section.intro {
-		
+
 	}
 
 		#wrapper > section.intro > header {
