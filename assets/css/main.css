@@ -3812,7 +3812,7 @@ input, select, textarea {
 	}
 
 	#wrapper:before {
-		transition: opacity 1s ease;
+
 	}
 
 		body.is-preload #wrapper:before {
@@ -3820,8 +3820,7 @@ input, select, textarea {
 		}
 
 	#wrapper > section.intro {
-		transition: opacity 1s ease;
-		opacity: 1;
+		
 	}
 
 		#wrapper > section.intro > header {
